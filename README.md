@@ -1,5 +1,5 @@
 # SBE
-Website made for http://shadowbanemulator.com
+Website made for http://shadowbaneemulator.com
 
 The website was made using a Custom MVC in PHP for the back-end of the website. 
 
