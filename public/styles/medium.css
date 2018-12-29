@@ -1,0 +1,44 @@
+@media screen and (max-width: 1100px) {
+    #leftCol {
+        float: none;
+        width: 100%;
+    }
+    #leftCol .title {
+        margin-top: 0px;
+        padding-top: 15px;
+        padding-left: 5%;
+    }
+    #news {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    #navbar {
+        height: 31px;
+    }
+    #navbar li {
+        padding: 0px 12px;
+    }
+    #link-home {
+        width: 103px;
+        height: 33px;
+    }
+    #link-wiki {
+        width: 92px;
+        height: 31px;
+    }
+    #link-about {
+        width: 111px;
+        height: 31px;
+    }
+    #link-forum {
+        width: 113px;
+        height: 31px;
+    }
+    #link-download {
+        width: 160px;
+        height: 31px;
+    }
+#sliderContainer {
+	display: none;
+}
+}

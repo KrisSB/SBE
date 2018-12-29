@@ -1,0 +1,11 @@
+#info {
+	background-color: #060606;
+    width: 100%;
+    float: left;
+    margin-right: 1%;
+    box-shadow: 0 0 10px #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2%;
+    font-size: 16px;
+}

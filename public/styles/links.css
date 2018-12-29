@@ -1,0 +1,50 @@
+#link-home {
+    background-image: url('../../public/images/links/home.png');
+    background-size: cover;
+    width: 137px;
+    height: 44px;
+}
+#link-home:hover {
+    background-image: url('../../public/images/links/Hhome.png');
+    background-size: cover;
+}
+#link-wiki {
+    background-image: url('../../public/images/links/wiki.png');
+    background-size: cover;
+    width: 122px;
+    height: 41px;
+}
+#link-wiki:hover {
+    background-image: url('../../public/images/links/Hwiki.png');
+    background-size: cover;
+}
+#link-about {
+    background-image: url('../../public/images/links/about.png');
+    background-size: cover;
+    width: 148px;
+    height: 41px;
+}
+#link-about:hover {
+    background-image: url('../../public/images/links/Habout.png');
+    background-size: cover;
+}
+#link-forum {
+    background-image: url('../../public/images/links/forum.png');
+    background-size: cover;
+    width: 150px;
+    height: 41px;
+}
+#link-forum:hover {
+    background-image: url('../../public/images/links/Hforum.png');
+    background-size: cover;
+}
+#link-download {
+    background-image: url('../../public/images/links/download.png');
+    background-size: cover;
+    width: 213px;
+    height: 41px;
+}
+#link-download:hover {
+    background-image: url('../../public/images/links/Hdownload.png');
+    background-size: cover;
+}

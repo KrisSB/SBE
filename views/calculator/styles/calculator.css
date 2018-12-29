@@ -1,0 +1,86 @@
+* {
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                font-family: verdana;
+                background-image: url('images/calcnav2.jpg');
+            }
+            #content {
+                width: 70%;
+                padding: 20px;
+            }
+            #CalcNav {
+                background-image: url('images/calcnav.jpg');
+                color: #FFF;
+            }
+            #CalcNav li {
+                list-style: none;
+                display: inline-block;
+                font-size: 18px;
+                padding: 5px;
+            }
+            #NavBasic {
+                background-image: url('images/calcnav2.jpg');
+            }
+            #Basic {
+                text-align: center;
+            }
+            #Basic table {
+                font-size: 20px;
+                width: 100%;
+            }
+            #Basic td {
+                border: 1px solid #000;
+            }
+            #bscStats input[type=text] {
+                width: 30px;
+                height: 30px;
+                font-size: 20px;
+		text-align: center;
+            }
+            #bscStats input[type=button] {
+                width: 40px;
+                height: 30px;
+                font-size: 15px;
+                text-align: center;
+                background-image: url('images/button.jpg');
+                color: #FFF;
+                border: 1px solid #000;
+            }
+            #bscStats input[type=button]:hover {
+                background-image: url('images/buttonh.jpg');
+            }
+            #bscRunes {
+                display: none;
+            }
+            #bscTraitCate input[type=button] {
+                margin-left: 2px;
+                font-size: 19px;
+                color: #FFF;
+                background-image: url('images/button.jpg');
+                border: 1px solid #000;
+            }
+            #bscTraitCate input[type=button]:hover {
+                background-image: url('images/buttonh.jpg');
+            }
+            #bscTraits {
+                margin-left: 20px;
+                margin-top: 10px;
+            }
+            #bscTraits div {
+                display: none;
+                text-align: left;
+            }
+            #Points {
+                display: none;
+            }
+            #Gear {
+                display: none;
+            }
+            #Character {
+                display: none;
+            }
+            #Resists {
+                display: none;
+            }

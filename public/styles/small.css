@@ -1,0 +1,50 @@
+@media screen and (max-width: 750px)  {
+    #navbar {
+        background: none;
+        position: static;
+        top: 0;
+        width: 75%;
+        height: 175px;
+        margin: 0 auto;
+        margin-top: 9%;
+        margin-bottom: 10%;
+    }
+    #content {
+        width: 95%;
+    }
+    #navbar li {
+        display: inline-block;
+        width: 100%;
+        background-color: #060606;
+        padding: 0;
+    }
+    #media {
+        background: none;
+        width: 100%;
+        margin-bottom: 1%;
+    }
+    .title {
+        font-size: 18px;
+    }
+    .media-col {
+        width: 100%;
+        float: none;
+        min-height: 100px;
+        background-color: #060606;
+        padding-left: 0;
+        padding-right: 0;
+        font-size: 14px;
+    }
+    #media-center {
+        border: none;
+    }
+    .nav-link {
+        margin: 0 auto;
+    }
+    .article {
+        font-size: 14px;
+    }
+#sliderContainer {
+	display: none;
+}
+}
